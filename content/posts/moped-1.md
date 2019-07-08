@@ -12,11 +12,11 @@ After reading *Zen and the Art of Motorcycle Maintenance*, I got caught up in th
 
 Thanks to Craig and his list, I was able to find a red colored ‘76 Puch Maxi who’s frame was in fairly good condition. The original lead-acid battery for the lights were gone and it hadn’t been run in five years, but either way, it was cheap. 
 
-The Puch Maxi was produced throughout the 70s/80s and was fairly popular due to its fuel economy. All models were outfitted with a single cylinder, 50cc, two stroke engine. Some earlier versions used a pedal start mechanism, while later ones have a kick start lever. Moped is a blend of the words "motor" and "pedaler." So as the name would suggest, when the engine is disengaged, the Puch Maxi moped can be ridden like a bicycle. I think it is cool in concept, but imagine having a 110 lb bike. It would be a nightmare to pedal.
+The Puch Maxi was produced throughout the 70s/80s and was fairly popular due to its fuel economy. All models were outfitted with a single cylinder, 50cc, two stroke engine. Some earlier versions used a pedal start mechanism, while the later ones have a kick start lever. Moped is a blend of the words "motor" and "pedaler." So as the name would suggest, when the engine is disengaged, the Puch Maxi moped can be ridden like a bicycle. I think it's cool in concept, but imagine having a 110 lb bike; it would be a nightmare to pedal.
 
 ![alt text](/images/IMG_3384.JPG)
 
-The engine and transmission were attached to the frame by three bolts. They were very rusty, but a bit of WD-40 and an impact driver were all that was needed to loosen them. I realized that the kickstand was attached to the engine, so the moped had to be flipped over in order to remove it. Later on, this move proved beneficial because I discovered that I had forgotten to drain the oil. After I narrowly avoided spilling motor oil all over the ground, I was finally able to detach the engine and transmission from the frame.
+The engine and transmission were attached to the frame by three bolts. They were very rusty, but a bit of WD-40 and an impact driver were all that was needed to loosen them. I realized that the kickstand was connected to the engine, so the moped had to be flipped over in order to remove it. Later on, this move proved beneficial because I discovered that I had forgotten to drain the oil. After I narrowly avoided spilling motor oil all over the ground, I was finally able to detach the engine and transmission from the frame.
 
 ![alt text](/images/IMG_3388.JPG)
 
