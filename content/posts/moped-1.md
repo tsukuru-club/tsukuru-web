@@ -10,7 +10,7 @@ draft: false
 
 After reading *Zen and the Art of Motorcycle Maintenance*, I got caught up in the idealism of owning a two wheeled, motorized vehicle. Somehow, I thought it would be a good idea to take an old gas moped and convert it to electric. As a person who has ~~some~~ very minimal mechanical knowledge, it couldn't be too hard right? 
 
-Thanks to Craig and his list, I was able to find a red colored ‘76 Puch Maxi who’s frame was in fairly good condition. The original lead-acid battery for the lights were gone and it hadn’t been run in five years, but it was cheap. 
+Thanks to Craig and his list, I was able to find a red colored ‘76 Puch Maxi who’s frame was in fairly good condition. The original lead-acid battery for the lights were gone and it hadn’t been run in five years, but either way, it was cheap. 
 
 The Puch Maxi was produced throughout the 1970s and 80s; it was well known its fuel economy. The moped outfitted with a single cylinder, 50cc, two stroke engine. Earlier versions used a pedal start mechanism, while later ones have a kick start lever. When the engine is disengaged, it can be ridden like a bicycle, which is cool in concept, but imagine having a 110 lb bike. It would be a nightmare to pedal.
 
