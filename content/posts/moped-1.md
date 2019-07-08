@@ -2,7 +2,7 @@
 title: "Thanks Craig"
 date: 2019-07-08T11:59:14-07:00
 author: "Audrey Xie"
-draft: true
+draft: false
 ---
 > The real cycle you’re working on is the cycle called yourself. (Robert Pirsig, *Zen and the Art of Motorcycle Maintenance*)
 
