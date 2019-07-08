@@ -13,11 +13,11 @@ After reading *Zen and the Art of Motorcycle Maintenance*, I got caught up in th
 
 Thanks to Craig and his list, I was able to find a red colored ‘76 Puch Maxi who’s frame was in fairly good condition. The original lead-acid battery for the lights were gone and it hadn’t been run in five years, but it was cheap. 
 
-The Puch Maxi was produced throughout the 1970s and 80s, and became popular due to its fuel economy. It is outfitted with a single cylinder, 50cc, two stroke engine. Earlier versions use a pedal start mechanism, while later ones have a kick start lever. When the engine is disengaged, it can be ridden like a bicycle. Which is cool in concept, but imagine having a 110 lb, or 50 kg, bike. It would be a nightmare to pedal.
+The Puch Maxi was produced throughout the 1970s and 80s; it was well known its fuel economy. The moped outfitted with a single cylinder, 50cc, two stroke engine. Earlier versions used a pedal start mechanism, while later ones have a kick start lever. When the engine is disengaged, it can be ridden like a bicycle, which is cool in concept, but imagine having a 110 lb bike. It would be a nightmare to pedal.
 
 ![alt text](/images/IMG_3384.JPG)
 
-The engine and transmission were attached onto the frame using three bolts. They were a bit rusty, but a bit of WD-40 and an impact driver were all that was needed to loosen them. I realized that the kickstand was attached to the engine, so I had to flip over the moped in order to remove it. This move proved beneficial because I later discovered that I forgot to drain the oil. After I narrowly avoided spilling motor oil all over the ground, I was finally able to detach the engine and transmission from the frame.
+The engine and transmission were attached onto the frame using three bolts. They were very rusty, but a bit of WD-40 and an impact driver were all that was needed to loosen them. I realized that the kickstand was attached to the engine, so the moped had to be flipped over in order to remove it. Later on, this move proved beneficial because I discovered that I had forgotten to drain the oil. After I narrowly avoided spilling motor oil all over the ground, I was finally able to detach the engine and transmission from the frame.
 
 ![alt text](/images/IMG_3388.JPG)
 
@@ -29,7 +29,7 @@ The engine and transmission were attached onto the frame using three bolts. They
 
 ![alt text](/images/IMG_3413.JPG)
 
-Since I wanted to use a hub motor for this EV conversion, I had to take off the back wheel and replace it with a hub-motor laced one. The process was extremely simple. I just unscrewed everything that was in the way, and then the wheel was easily removed from the frame.
+Since I wanted to use a hub motor for this EV conversion, I had to take off the back wheel and replace it with one that was laced with a hub motor. The process was extremely simple. I just unscrewed everything that was in the way, and then the wheel was easily removed from the frame.
 
 ![alt text](/images/IMG_3401.JPG)
 
