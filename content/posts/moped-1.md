@@ -1,5 +1,5 @@
 ---
-title: "Thanks Craig"
+title: "Thanks Craig :: Moped pt. 1"
 date: 2019-07-08T11:59:14-07:00
 author: "Audrey Xie"
 draft: false
