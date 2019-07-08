@@ -1,0 +1,17 @@
+<footer class="footer">
+  <div class="footer__inner">
+    {{ if $.Site.Copyright }}
+      <div class="copyright copyright--user">{{ $.Site.Copyright | safeHTML }}</div>
+    {{else}}
+      <div class="copyright">
+        <span>Page last generated on {{ now.Format "2006-01-02 15:04:05" }}. </br>By <a href="https://nikhiljha.com/">Nikhil Jha</a> and <a href="https://www.linkedin.com/in/audreyhyxie/">Audrey Xie</a>.</span>
+      </div>
+    {{end}}
+  </div>
+</footer>
+
+<script src="{{ "assets/main.js" | absURL }}"></script>
+<script src="{{ "assets/prism.js" | absURL }}"></script>
+
+<!-- Extended footer section-->
+{{ partial "extended_footer.html" . }}
