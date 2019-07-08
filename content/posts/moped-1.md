@@ -12,7 +12,7 @@ After reading *Zen and the Art of Motorcycle Maintenance*, I got caught up in th
 
 Thanks to Craig and his list, I was able to find a red colored ‘76 Puch Maxi who’s frame was in fairly good condition. The original lead-acid battery for the lights were gone and it hadn’t been run in five years, but either way, it was cheap. 
 
-The Puch Maxi was produced throughout the 70s/80s and was fairly popular due to its fuel economy. All models were outfitted with a single cylinder, 50cc, two stroke engine. Some earlier versions used a pedal start mechanism, while the later ones have a kick start lever. Moped is a blend of the words "motor" and "pedaler." So as the name would suggest, when the engine is disengaged, the Puch Maxi moped can be ridden like a bicycle. I think it's cool in concept, but imagine having a 110 lb bike; it would be a nightmare to pedal.
+The Puch Maxi was produced throughout the 70s/80s and was mildly popular due to its fuel economy. All models were outfitted with a single cylinder, 50cc, two stroke engine. Some earlier versions used a pedal start mechanism, while the later ones have a kick start lever. Moped is a blend of the words "motor" and "pedaler." So as the name would suggest, when the engine is disengaged, the Puch Maxi moped can be ridden like a bicycle. I think it's cool in concept, but imagine having a 110 lb bike; it would be a nightmare to pedal.
 
 ![alt text](/images/IMG_3384.JPG)
 
