@@ -11,8 +11,10 @@ draft = false
 
 I'm sorry, but I spent wayyyy to much time on this comic and just wanted to post it somewhere.
 
-![Cover](/images/integral/comics5.png)
-![Page1](/images/integral/comic1.png)
-![Page2](/images/integral/comic2.png)
-![Page3](/images/integral/comic3.png)
-![Page4](/images/integral/comics4.png)
+<!--more-->
+
+![Cover](/images/integral/comics5.jpg)
+![Page1](/images/integral/comic1.jpg)
+![Page2](/images/integral/comic2.jpg)
+![Page3](/images/integral/comic3.jpg)
+![Page4](/images/integral/comics4.jpg)
