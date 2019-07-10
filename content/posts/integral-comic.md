@@ -6,7 +6,7 @@ cover = ""
 tags = ["", ""]
 description = ""
 showFullContent = false
-draft = true
+draft = false
 +++
 
 I'm sorry, but I spent wayyyy to much time on this comic and just wanted to post it somewhere.
