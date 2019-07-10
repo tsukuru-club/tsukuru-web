@@ -3,7 +3,6 @@ title = "Audrey's attempt at being a mangaka :: Integral"
 date = 2019-07-10T11:59:28-07:00
 author = "Audrey Xie"
 cover = ""
-tags = ["", ""]
 description = ""
 showFullContent = false
 draft = false
