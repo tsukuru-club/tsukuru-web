@@ -10,7 +10,7 @@ draft = false
 
 <!--more-->
 
-Disassembling the moped was fun and all. But now came the difficult part, putting it back together. I started off with what I believed was the most simple part, replacing the original wheel with the hub-motor-laced wheel. The hub motor is just your average brushless DC motor (BLDC). The permanent magnets are located on the rotor, while the electromagnets are on the stator. Electricity charges the electromagnets on the stator to rotate the motor. (I might make a post later that explains electric motors with more detail) The only thing slightly different from a typical BLDC motor is that its axle is more reinforced.
+Disassembling the moped was fun and all. But now came the difficult part, putting it back together. I started off with what I believed was the most simple part, replacing the original wheel with the hub-motor-laced wheel. The hub motor is just your average brushless DC motor (BLDC). The permanent magnets are located on the rotor, while the electromagnets are on the stator. Electricity charges the electromagnets on the stator to rotate the rotor. (I might make a post later that explains electric motors with more detail) The only thing slightly different from a typical BLDC motor is that its axle is more reinforced.
 
 The hub motor that I was working with directly drives the back wheel and has a max power of 3kw. The top speed is hard to estimate because I’m not sure what the final weight of the moped will be. Either way, the hub motor was laced using a single-cross pattern, which is the generic lacing pattern for larger hub motors and wheels.
 
