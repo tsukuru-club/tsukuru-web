@@ -1,7 +1,8 @@
 ---
-title: "Thanks Craig :: Moped pt. 1"
+title: "Thanks Craig :: EV Moped Conversion pt. 1"
 date: 2019-07-08T11:59:14-07:00
 author: "Audrey Xie"
+tags = ["EV", "moped"]
 draft: false
 ---
 > The real cycle you’re working on is the cycle called yourself. (Robert Pirsig, *Zen and the Art of Motorcycle Maintenance*)
