@@ -1,8 +1,7 @@
 +++
 title = "When it doubt, Dremel it out :: EV Moped Conversion pt. 3"
 date = 2019-07-30T12:16:08-07:00
-author = ""
-cover = ""
+author = "Audrey Xie"
 tags = ["EV", "moped"]
 showFullContent = false
 draft = false
