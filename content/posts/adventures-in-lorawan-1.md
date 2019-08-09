@@ -16,6 +16,8 @@ I really wanted to make my bicycle have cool features (like lights and a GPS tra
 but LTE coverage is expensive. LoRA coverage is also lacking in my area, so I needed to
 make my own relay to test.
 
+I decided to start by making an LTE-free GPS tracker.
+
 For the purpose of practicality, my area apparently does have Sigfox coverage, so I will
 eventually add that too.
 
