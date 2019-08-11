@@ -4,12 +4,10 @@ date: 2019-07-07T18:46:49-07:00
 draft: false
 ---
 
-Audrey, here. Below are a bunch of photos of Kudo, my dog. He's a three year old labradoodle who enjoys turkey dog treats, rolling around in grass, and foam frisbees.
+Here is a list of sites that we think are cool.
 
-![Kudo_1](/images/moped/IMG_3436.JPG)
+[Dumb Or Overly Forced Astronomical Acronyms Site (or DOOFAAS)](https://www.cfa.harvard.edu/~gpetitpas/Links/Astroacro.html)
 
-![Kudo_2](/images/moped/IMG_3426.JPG)
+[Linguistic humor, Worst analogies (taken from high school papers)](https://www.ling.upenn.edu/~beatrice/humor/worst-analogies.html)
 
-![Kudo_3](/images/moped/IMG_3437.JPG)
-
-![Kudo_4](/images/moped/IMG_3432.JPG)
+[Kill or cure?: Help to make sense of the Daily Mail’s ongoing effort to classify every inanimate object into those that cause cancer and those that prevent it.](http://kill-or-cure.herokuapp.com/)
