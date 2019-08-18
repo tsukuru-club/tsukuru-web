@@ -1,10 +1,9 @@
 ---
-title: "Showcase"
-date: 2019-07-07T18:46:49-07:00
+title: "Audrey and Nikhil's Guide to the Word Wide Web (credits to early Yahoo!)"
 draft: false
 ---
 
-Here is a list of sites that we think are cool.
+Some cool sites, enjoy!
 
 [Dumb Or Overly Forced Astronomical Acronyms Site (or DOOFAAS)](https://www.cfa.harvard.edu/~gpetitpas/Links/Astroacro.html)
 
