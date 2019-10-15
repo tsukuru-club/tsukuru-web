@@ -7,8 +7,6 @@ draft: false
 ---
 > The real cycle you’re working on is the cycle called yourself. (Robert Pirsig, *Zen and the Art of Motorcycle Maintenance*)
 
-<!--more-->
-
 After reading *Zen and the Art of Motorcycle Maintenance*, I got caught up in the idealism of owning a two wheeled, motorized vehicle. Somehow, I thought it would be a good idea to take an old gas moped and convert it to electric. As a person who has ~~some~~ very minimal mechanical knowledge, it shouldn't be too hard right? 
 
 Thanks to Craig and his list, I was able to find a red colored ‘76 Puch Maxi who’s frame was in fairly good condition. The original lead-acid battery for the lights were gone and it hadn’t been run in five years, but either way, it was cheap. 
