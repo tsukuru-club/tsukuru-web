@@ -34,5 +34,3 @@ I rode around for a good half an hour before becoming a little too overzealous w
 ![](/images/moped/IMG_3687.jpg)
 
 ![](/images/moped/IMG_3675.jpg)
-
-{{< youtube j_Ak0_0s4u8 >}}
