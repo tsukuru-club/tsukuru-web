@@ -9,6 +9,8 @@ draft = false
 
 > On a cycle the frame is gone. You're completely in contact with it all. You're in the scene, not just watching it anymore, and the sense of presence is overwhelming. (Robert Pirsig, *Zen and the Art of Motorcycle Maintenance*)
 
+<!--more-->
+
 It’s been quite a while since the last moped update. Partly because of my own tendency to procrastinate, but also because of school obligations and college apps. Anyways, it turns out that the lithium ion trash-can battery is actually able to function after messing with the lock! With the battery, hub motor, and motor controller all sourced and installed, I set about tying up loose ends. The first thing that I fixed was the kickstand. On the original moped, the kickstand was directly attached to the engine and the engine was bolted onto the frame. Since I don’t have many machines/tools available to use, I couldn’t really machine a part that would be bolted into the frame to hold the kickstand. Thus, I decided to gut the engine to reduce its weight and keep it as the kickstand holder. This was quite easy, prying apart two halves of the engine made the internal componently readily removeable. 
 
 ![](/images/moped/IMG_3556.jpg)

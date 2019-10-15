@@ -9,6 +9,8 @@ draft = false
 
 > The real purpose of the scientific method is to make sure nature hasn’t misled you into thinking you know something you actually don’t know. (Robert Pirsig, *Zen and the Art of Motorcycle Maintenance*)
 
+<!--more-->
+
 Lithium ion batteries are expensive. Fortunately, my brother found one in a trash can at school and gave it to me when he came back to the Bay Area (thanks gregory!). But there were a few problems. First, the battery was not charged and I didn’t have the charger. Second, there was a lock on the battery for turning it on and off, and I didn’t have the key. Third, and most importantly, I didn’t know if the battery actually worked. Maybe it was in the trash can for a reason, right? Either way, I would have to solve the first two problems before being able to solve the third.
 
 The charger had to be ordered online and would take some time to arrive, so I started off with the issue regarding the key. I wanted to either remove the lock and replace the on/off mechanism with a large button or remove the pins from the lock so that it wouldn’t require a key to turn. In order to decide which path I would follow, I first had to take a closer look at the lock. Thus, ignoring the large sticker on the front saying, “WARNING: DO NOT DISASSEMBLE,” I disassembled the battery. 
