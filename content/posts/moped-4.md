@@ -1,5 +1,5 @@
 +++
-title = "And the project comes to an end :: EV Moped Conversion pt. 4"
+title = "The project comes to an end :: EV Moped Conversion pt. 4"
 date = 2019-10-14T18:23:32-07:00
 author = "Audrey Xie"
 tags = ["EV", "moped"]
